@@ -11,4 +11,7 @@ public class HelloWorld {
 		System.out.println("from m1");
 	}
 
+	public void m2() {
+		System.out.println("from m2");
+	}
 }
