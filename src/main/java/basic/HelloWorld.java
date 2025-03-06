@@ -9,11 +9,13 @@ public class HelloWorld {
 	//from a1 branch
 	public void m1() {
 		System.out.println("from m1");
+		System.out.println("from a1");
 	}
 
 	//from b1 branch
 	public void m2() {
 		System.out.println("from m2");
 		System.out.println("from b1");
+
 	}
 }
